@@ -1,0 +1,8 @@
+{
+  "name": "spongebobcase",
+  "version": "1.0.0",
+  "description": "a package that modifies the string prototype and adds a .toSpongeBobCase()",
+  "main": "index.js",
+  "author": "Carl Peaslee <cpeaslee@gmail.com>",
+  "license": "MIT"
+}
