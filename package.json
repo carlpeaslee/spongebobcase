@@ -8,5 +8,5 @@
   "scripts": {
     "test": "node test"
   },
-  "repository": "https://github.com/carlpeaslee/spongebobcase"
+  "homepage": "https://github.com/carlpeaslee/spongebobcase"
 }
