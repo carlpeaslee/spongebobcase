@@ -1,11 +1,12 @@
 {
   "name": "spongebobcase",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a package that modifies the string prototype and adds a .toSpongeBobCase()",
   "main": "index.js",
   "author": "Carl Peaslee <cpeaslee@gmail.com>",
   "license": "MIT",
   "scripts": {
     "test": "node test"
-  }
+  },
+  "repository": "https://github.com/carlpeaslee/spongebobcase"
 }
