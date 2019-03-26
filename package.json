@@ -4,5 +4,8 @@
   "description": "a package that modifies the string prototype and adds a .toSpongeBobCase()",
   "main": "index.js",
   "author": "Carl Peaslee <cpeaslee@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "node test"
+  }
 }
